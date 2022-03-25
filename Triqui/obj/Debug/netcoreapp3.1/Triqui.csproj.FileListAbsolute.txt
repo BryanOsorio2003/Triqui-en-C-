@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.exe
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.deps.json
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.runtimeconfig.json
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.dll
+C:\Users\SENA\source\repos\Triqui\Triqui\bin\Debug\netcoreapp3.1\Triqui.pdb
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.dll
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.pdb
+C:\Users\SENA\source\repos\Triqui\Triqui\obj\Debug\netcoreapp3.1\Triqui.genruntimeconfig.cache
